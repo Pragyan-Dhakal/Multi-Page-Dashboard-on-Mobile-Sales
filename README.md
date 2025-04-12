@@ -6,8 +6,8 @@
 ## **Project Overview**  
 This dashboard provides a comprehensive analysis of mobile sales data across multiple dimensions, including brands, cities, payment methods, and time periods. It is designed to help stakeholders track sales performance, identify trends, and make data-driven decisions. The dashboard comprises **3 pages**:  
 1. **Summary Overview**: High-level metrics and trends.  
-2. **Geographical & Temporal Analysis**: Sales by city and month/day.  
-3. **Product & Payment Insights**: Model-wise performance and payment method trends.  
+2. **Sales Performance Trends**: MTD, QTD & YTD Analysis.  
+3. **Same Period Last Year**: Total Sale and same period last year.  
 
 ---
 
